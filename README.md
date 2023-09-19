@@ -1,35 +1,70 @@
-# Configuraciones para la API
+# Getting Started with Create React App
 
-Este proyecto representa la API para la aplicación de administración construida con Node.js y Express. Sigue las siguientes instrucciones para configurar y ejecutar la API en tu entorno de desarrollo.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Requisitos Previos
+## Available Scripts
 
-Asegúrate de que tu entorno de desarrollo cumpla con los siguientes requisitos:
+In the project directory, you can run:
 
-- Node.js instalado en tu sistema. Puedes descargarlo desde [https://nodejs.org/](https://nodejs.org/).
+### `npm start`
 
-## Configuración del Proyecto
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-1. Clona el repositorio de la API:
-2. Navega a la carpeta del proyecto:
-   - cd tuproyecto-api
-3. Instala las dependencias:
-   - npm install
-## Ejecución de la API
-Una vez que hayas configurado el proyecto, puedes iniciar la API utilizando el siguiente comando:
-- npm run start-api
-  
-Esto iniciará el servidor de la API, que estará disponible en http://localhost:5000 de forma predeterminada.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Uso de la API
-La API proporcionará endpoints para administrar usuarios, tickets y otras funcionalidades según lo definido en el proyecto principal. Asegúrate de que el proyecto principal esté configurado para conectarse a esta API utilizando la URL y el puerto adecuados.
+### `npm test`
 
-Contribución
-Si deseas contribuir a este proyecto de la API, por favor sigue los siguientes pasos:
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-- Realiza un fork del repositorio.
-- Crea una rama con tu nueva característica o corrección.
-- Realiza tus cambios y documenta cualquier cambio en los comentarios.
-- Envía una solicitud de extracción (pull request).
-## Licencia
-Este proyecto de la API está bajo la Licencia MIT. Consulta el archivo Licencia MIT para obtener más detalles.
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
