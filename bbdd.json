@@ -1,0 +1,141 @@
+{
+  "Usuarios": [
+    {
+      "id": 1,
+      "numIdentidadPa": 1234,
+      "nombrePa": "Duvan Felipe",
+      "apellidoPa": "Sanchez Leguizamon",
+      "tipoDocumentoPa": "T.I",
+      "numeroPa": 3138132399,
+      "epsPa": "Famisanar",
+      "GeneroPa": true,
+      "email": "Duvan@gmail.com",
+      "password": "81dc9bdb52d04dc20036dbd8313ed055"
+    },
+    {
+      "id": 2,
+      "numIdentidadPa": 12356,
+      "nombrePa": "Camilo",
+      "apellidoPa": "torres",
+      "numeroPa": 324567890,
+      "epsPa": "Famisanar",
+      "GeneroPa": true,
+      "email": "Camilo@gmail.com",
+      "password": "827ccb0eea8a706c4c34a16891f84e7b"
+    },
+    {
+      "nombrePa": "hola",
+      "apellidoPa": "hola",
+      "numIdentificacionPa": 12,
+      "email": "hola@gmail.com",
+      "password": "4d186321c1a7f0f354b297e8914ab240",
+      "id": 3
+    },
+    {
+      "nombrePa": "hola",
+      "apellidoPa": "hola",
+      "numIdentificacionPa": "1234",
+      "email": "duvansanchezle@gmail.com",
+      "numeroPa": "123456789",
+      "password": "4d186321c1a7f0f354b297e8914ab240",
+      "id": 4
+    },
+    {
+      "nombrePa": "juan",
+      "apellidoPa": "camilo",
+      "numIdentificacionPa": "424242",
+      "email": "torres_avila_777@hotmail.com",
+      "numeroPa": "424242",
+      "password": "81dc9bdb52d04dc20036dbd8313ed055",
+      "id": 5
+    },
+    {
+      "numIdentificacionPa": "",
+      "email": "",
+      "password": "d41d8cd98f00b204e9800998ecf8427e",
+      "id": 6
+    },
+    {
+      "nombrePa": "nose",
+      "apellidoPa": "nose",
+      "numIdentificacionPa": "4242424",
+      "email": "atiroomega@gmail.com",
+      "numeroPa": "43242342",
+      "password": "81dc9bdb52d04dc20036dbd8313ed055",
+      "id": 7
+    },
+    {
+      "nombrePa": "prueba",
+      "apellidoPa": "prubea",
+      "numIdentificacionPa": "43242234",
+      "email": "gzsansomega999@gmail.com",
+      "numeroPa": "5344242423",
+      "password": "81dc9bdb52d04dc20036dbd8313ed055",
+      "id": 8
+    },
+    {
+      "numIdentificacionPa": "",
+      "email": "",
+      "epsPa": "",
+      "password": "d41d8cd98f00b204e9800998ecf8427e",
+      "id": 9
+    },
+    {
+      "nombrePa": "juan",
+      "apellidoPa": "camilo",
+      "numIdentificacionPa": "32424234",
+      "email": "juancta268@gmail.com",
+      "epsPa": "sanitas",
+      "numeroPa": "423324234",
+      "password": "81dc9bdb52d04dc20036dbd8313ed055",
+      "id": 10
+    }
+  ],
+  "Medico": [
+    {
+      "numIdentidadDoc": 1234,
+      "nombreDoc": "Andres",
+      "apellidoDoc": "Cordoba",
+      "numeroDoc": 1234,
+      "espacializacion": "odontologo",
+      "disponibilidadDoc": true
+    },
+    {
+      "numIdentidadDoc": 123,
+      "nombreDoc": "Kevin",
+      "apellidoDoc": "Mora",
+      "numeroDoc": 12354,
+      "especializacionDoc": "cirujano",
+      "disponibilidadDoc": false
+    }
+  ],
+  "Tickeds": [
+    {
+      "id": 1,
+      "titulo": "Ejemplo de ticket",
+      "descripcion": "Esta es una descripción de ejemplo para el ticket.",
+      "usuarioId": 1,
+      "estado": "No Aprobado"
+    },
+    {
+      "titulo": "juan",
+      "descripcion": "nose ",
+      "usuarioId": 10,
+      "id": 2,
+      "estado": "No Aprobado"
+    },
+    {
+      "titulo": "gdfgf",
+      "descripcion": "dgdgdf",
+      "usuarioId": 10,
+      "id": 3,
+      "estado": "No Aprobado"
+    },
+    {
+      "titulo": "dsfsdf",
+      "descripcion": "sdfsdfsdf",
+      "usuarioId": 10,
+      "id": 4
+    }
+  ]
+}
