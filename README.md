@@ -42,3 +42,6 @@ Si deseas contribuir a este proyecto, por favor sigue los siguientes pasos:
 - Envía una solicitud de extracción (pull request).
 ## Licencia
 Este proyecto está bajo la Licencia MIT. Consulta el Licencia MIT para obtener más detalles.
+## video de youtube
+- https://youtu.be/uU6LsGSZjDs
+
