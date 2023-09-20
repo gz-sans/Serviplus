@@ -1,6 +1,8 @@
 # Mi Aplicación de Administración
 
 Este proyecto es una aplicación web de administración construida con React y React Router. Proporciona una interfaz para administrar usuarios, tickets y configuraciones.
+- proyecto react en la rama master
+- api en la rama apii
 
 ## Características
 
